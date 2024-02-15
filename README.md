@@ -73,6 +73,6 @@ Builds from the master branch can have functionality changed and even removed at
 
 ## Licensing
 
-Rook is under the Apache 2.0 license.
+Rook is under the Apache 2.0 license
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frook%2Frook.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frook%2Frook?ref=badge_large)
